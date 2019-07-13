@@ -7,6 +7,7 @@ include /home/seyboman/ros2-seyboman_riot_ws/install/std_msgs/Makefile.include
 
 USEMODULE += shell
 USEMODULE += shell_commands
+USEMODULE += spi
 #USEMODULE += ps
 #USEMODULE += gnrc_netif
 #USEMODULE += gnrc_txtsnd
